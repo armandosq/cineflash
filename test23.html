@@ -80,7 +80,8 @@ playerInstance.setup({
     sharing: {
             link: "https://sfntv.xyz"
 },
-});
+}); var elem = document.documentElement; function openFullscreen() { jwplayer().setMute(false); jwplayer().setFullscreen(true); if (elem.requestFullscreen) { elem.requestFullscreen(); } else if (elem.webkitRequestFullscreen) { /* Safari / elem.webkitRequestFullscreen(); } else if (elem.msRequestFullscreen) { / IE11 */ elem.msRequestFullscreen(); } };
+
 
 </script>
 <script type="text/javascript" src="https://www.gstatic.com/cv/js/sender/v1/cast_sender.js"></script>

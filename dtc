@@ -32,7 +32,7 @@ var getKEY2  = getParameterByName('key2');
 </script>
 <iframe id="iframe" referrerpolicy="no-referrer" allow="encrypted-media; autoplay" style="height:100%; width:100%; position:absolute" frameborder allowfullscreen></iframe>
 <script type="57569af097cef02cc047fa82-text/javascript">
-var link = "https://nose.centralpto.com/test23.html?get="  + getURL + "&key=" + getKEY + "&key2=" + getKEY2 + "&update356j2";
+var link = "https://futbolparaguayotv.github.io/futbolparaguayotv/test23.html?get="  + getURL + "&key=" + getKEY + "&key2=" + getKEY2 + "&update356j2";
 
 setTimeout(() => {document.getElementById('iframe').src = link;}, 80);
 </script>
